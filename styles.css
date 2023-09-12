@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+table,tr,td,th{
+	border: 1px solid black;
+	justify-content: center;
+}
+.c2{
+	width:300px;
+	height:200px;
+}
+.table2 tr,th,td{
+	width:300px;
+    text-align:center;
+}
+.c3{
+	width:300px;
+	height:100px;
+}
+.table3{
+		width:300px;
+	text-align:center;
+
+}
+.c4{
+	width:300px;
+	height:100px;
+}
+.table4{
+	text-align:center;
+	width:300px;
+}
+.table4 .H{
+	background:black;
+	color:white;
+}
+li{
+	font-weight:bold;
+}
